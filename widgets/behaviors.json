@@ -1,1 +1,1 @@
-{"total":0,"items":[]}
+{"total":3,"items":[{"uid":"26facf37b2d08a69ddc674b62d32b60e","name":"Customer Portal","statistic":{"failed":3,"broken":0,"skipped":0,"passed":0,"unknown":0,"total":3}},{"uid":"c9c9f53488028c07b382f3a16be5fee8","name":"Bank Manager Portal","statistic":{"failed":1,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":2}},{"uid":"470f27cc91b2fb33b10383c99157f129","name":"XYZ Bank Navigation","statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1}}]}
